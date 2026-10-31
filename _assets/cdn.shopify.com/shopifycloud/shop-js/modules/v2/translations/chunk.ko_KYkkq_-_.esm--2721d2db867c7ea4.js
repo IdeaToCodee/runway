@@ -1,0 +1,2 @@
+var n={button:{signIn:"{shop}(으)로 로그인",continue:"{shop}(으)로 계속",ariaLabel:{signIn:"Shop으로 로그인",continue:"Shop으로 계속"}},subjectMappingError:"문제가 발생했습니다. 다시 시도하십시오.",changeAccountButton:{title:"다른 계정 사용"}},o={shopLogin:n};export{o as default,n as shopLogin};
+//# sourceMappingURL=chunk.ko_KYkkq_-_.esm.js.map

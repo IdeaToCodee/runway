@@ -1,0 +1,2 @@
+import{C as e,j as t,v as n}from"./chunk.register_D3xOe9LN.esm--18a6bf4f37893e4c.js";const o=new Set(["contextCode"]);function r(e){if(!e||"object"!=typeof e||Array.isArray(e))return e;const t={...e};for(const e of o)delete t[e];return t}function s(){const{notify:o}=n(),{element:s}=e();return t(((e,t,n=!1)=>{s?s.dispatchEvent(new CustomEvent(e,{bubbles:n,cancelable:!1,composed:!0,detail:r(t)})):o(new Error("dispatchEvent called without a reference to the custom element."))}),[s,o])}export{s as t};
+//# sourceMappingURL=chunk.useDispatchEvent_CD7SR2Ez.esm.js.map

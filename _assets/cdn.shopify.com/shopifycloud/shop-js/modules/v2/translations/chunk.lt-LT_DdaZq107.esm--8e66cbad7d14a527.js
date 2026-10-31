@@ -1,0 +1,2 @@
+var i={button:{signIn:"Prisijungti su {shop}",continue:"Tęsti su {shop}",ariaLabel:{signIn:"Prisijungti su „Shop“",continue:"Tęsti su „Shop“"}},subjectMappingError:"Įvyko klaida. Bandykite dar kartą.",changeAccountButton:{title:"Naudoti kitą paskyrą"}},t={shopLogin:i};export{t as default,i as shopLogin};
+//# sourceMappingURL=chunk.lt-LT_DdaZq107.esm.js.map

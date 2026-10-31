@@ -1,0 +1,8 @@
+Source: https://nike-makknzjs.myshopify.com/pages/runway
+Pages: 14
+Assets: 711
+Downloaded: 227.7 MB
+Errors / limits: 36
+Entry: pages/runway/index.html
+See manifest.json for copied URLs and failures.
+Static archive: Shopify APIs, checkout, accounts and third-party services may require the original backend.

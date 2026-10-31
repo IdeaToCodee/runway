@@ -1,0 +1,2 @@
+var n={button:{signIn:"{shop} کے ساتھ سائن اِن کریں",continue:"{shop} کے ساتھ جاری رکھیں",ariaLabel:{signIn:"Shop کے ساتھ سائن اِن کریں",continue:"Shop کے ساتھ جاری رکھیں"}},changeAccountButton:{title:"کوئی مختلف اکاؤنٹ استعمال کریں"},subjectMappingError:"کچھ غلط ہو گیا۔ براہ کرم دوبارہ کوشش کریں۔"},o={shopLogin:n};export{o as default,n as shopLogin};
+//# sourceMappingURL=chunk.ur_DEvE7qSu.esm.js.map

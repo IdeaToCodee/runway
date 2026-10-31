@@ -1,0 +1,2 @@
+var n={button:{signIn:"Kirjaudu sisään: {shop}",continue:"Jatka: {shop}",ariaLabel:{signIn:"Kirjaudu sisään Shop-sovelluksella",continue:"Jatka Shop-sovelluksella"}},subjectMappingError:"Jotkin meni pieleen. Yritä uudelleen.",changeAccountButton:{title:"Käytä toista tiliä"}},t={shopLogin:n};export{t as default,n as shopLogin};
+//# sourceMappingURL=chunk.fi_KNGmtNGc.esm.js.map

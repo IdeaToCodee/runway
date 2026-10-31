@@ -1,0 +1,2 @@
+var n={button:{signIn:"Đăng nhập bằng {shop}",continue:"Tiếp tục bằng {shop}",ariaLabel:{signIn:"Đăng nhập bằng Shop",continue:"Tiếp tục bằng Shop"}},subjectMappingError:"Đã xảy ra lỗi. Vui lòng thử lại.",changeAccountButton:{title:"Sử dụng tài khoản khác"}},t={shopLogin:n};export{t as default,n as shopLogin};
+//# sourceMappingURL=chunk.vi_BzsnzlWV.esm.js.map

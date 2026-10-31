@@ -1,0 +1,2 @@
+var n={button:{signIn:"Iniciar sessão com a {shop}",continue:"Continuar com a {shop}",ariaLabel:{signIn:"Iniciar sessão com a Shop",continue:"Continuar com a Shop"}},subjectMappingError:"Ocorreu um erro. Tente novamente.",changeAccountButton:{title:"Utilizar uma conta diferente"}},o={shopLogin:n};export{o as default,n as shopLogin};
+//# sourceMappingURL=chunk.pt-PT_BPPDoiLy.esm.js.map

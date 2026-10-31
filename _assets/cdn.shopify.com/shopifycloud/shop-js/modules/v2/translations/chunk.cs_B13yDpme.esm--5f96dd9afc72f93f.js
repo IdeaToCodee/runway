@@ -1,0 +1,2 @@
+var o={button:{signIn:"Přihlásit se pomocí {shop}",continue:"Pokračovat pomocí {shop}",ariaLabel:{signIn:"Přihlásit se pomocí Shop",continue:"Pokračovat pomocí Shop"}},subjectMappingError:"Něco se pokazilo. Zkuste to prosím znovu.",changeAccountButton:{title:"Použít jiný účet"}},t={shopLogin:o};export{t as default,o as shopLogin};
+//# sourceMappingURL=chunk.cs_B13yDpme.esm.js.map

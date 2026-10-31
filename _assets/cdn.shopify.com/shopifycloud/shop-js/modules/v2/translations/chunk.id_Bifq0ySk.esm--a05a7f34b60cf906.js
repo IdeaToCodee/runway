@@ -1,0 +1,2 @@
+var n={button:{signIn:"Masuk dengan {shop}",continue:"Lanjutkan dengan {shop}",ariaLabel:{signIn:"Masuk dengan Shop",continue:"Lanjutkan dengan Shop"}},subjectMappingError:"Ada yang salah. Silakan coba lagi.",changeAccountButton:{title:"Gunakan akun yang berbeda"}},a={shopLogin:n};export{a as default,n as shopLogin};
+//# sourceMappingURL=chunk.id_Bifq0ySk.esm.js.map

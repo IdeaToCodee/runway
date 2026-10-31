@@ -1,0 +1,2 @@
+var n={button:{signIn:"Inloggen met {shop}",continue:"Doorgaan met {shop}",ariaLabel:{signIn:"Inloggen met Shop",continue:"Doorgaan met Shop"}},subjectMappingError:"Er is iets misgegaan. Probeer het opnieuw.",changeAccountButton:{title:"Ander account gebruiken"}},e={shopLogin:n};export{e as default,n as shopLogin};
+//# sourceMappingURL=chunk.nl_Cm2eF3Yu.esm.js.map

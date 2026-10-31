@@ -1,0 +1,2 @@
+var n={button:{signIn:"Вход с(ъс) {shop}",continue:"Продължаване с(ъс) {shop}",ariaLabel:{signIn:"Вход чрез Shop",continue:"Продължаване с Shop"}},subjectMappingError:"Нещо се обърка. Опитайте отново.",changeAccountButton:{title:"Използване на друг акаунт"}},o={shopLogin:n};export{o as default,n as shopLogin};
+//# sourceMappingURL=chunk.bg-BG_BBoTil9L.esm.js.map

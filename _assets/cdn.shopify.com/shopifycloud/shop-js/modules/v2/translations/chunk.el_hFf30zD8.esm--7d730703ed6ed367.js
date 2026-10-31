@@ -1,0 +1,2 @@
+var n={button:{signIn:"Σύνδεση με {shop}",continue:"Συνέχεια με {shop}",ariaLabel:{signIn:"Σύνδεση με Shop",continue:"Συνέχεια με Shop"}},subjectMappingError:"Κάτι πήγε στραβά. Προσπαθήστε ξανά.",changeAccountButton:{title:"Χρήση διαφορετικού λογαριασμού"}},o={shopLogin:n};export{o as default,n as shopLogin};
+//# sourceMappingURL=chunk.el_hFf30zD8.esm.js.map

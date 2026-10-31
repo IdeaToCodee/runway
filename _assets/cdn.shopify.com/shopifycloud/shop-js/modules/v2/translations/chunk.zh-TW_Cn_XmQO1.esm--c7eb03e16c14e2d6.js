@@ -1,0 +1,2 @@
+var n={button:{signIn:"使用 {shop} 登入",continue:"繼續使用 {shop}",ariaLabel:{signIn:"使用 Shop 登入",continue:"繼續使用 Shop"}},subjectMappingError:"發生錯誤。請再試一次。",changeAccountButton:{title:"使用其他帳戶"}},o={shopLogin:n};export{o as default,n as shopLogin};
+//# sourceMappingURL=chunk.zh-TW_Cn_XmQO1.esm.js.map

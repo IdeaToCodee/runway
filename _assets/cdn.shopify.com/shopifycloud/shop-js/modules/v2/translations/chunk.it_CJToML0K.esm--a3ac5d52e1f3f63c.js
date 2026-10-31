@@ -1,0 +1,2 @@
+var o={button:{signIn:"Accedi con {shop}",continue:"Continua con {shop}",ariaLabel:{signIn:"Accedi con Shop",continue:"Continua con Shop"}},subjectMappingError:"Qualcosa è andato storto. Riprova.",changeAccountButton:{title:"Usa un altro account"}},n={shopLogin:o};export{n as default,o as shopLogin};
+//# sourceMappingURL=chunk.it_CJToML0K.esm.js.map

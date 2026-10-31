@@ -1,0 +1,2 @@
+var n={button:{signIn:"Log ind med {shop}",continue:"Fortsæt med {shop}",ariaLabel:{signIn:"Log ind med Shop",continue:"Fortsæt med Shop"}},subjectMappingError:"Noget gik galt. Prøv igen.",changeAccountButton:{title:"Brug en anden konto"}},o={shopLogin:n};export{o as default,n as shopLogin};
+//# sourceMappingURL=chunk.da_DyYLgmva.esm.js.map

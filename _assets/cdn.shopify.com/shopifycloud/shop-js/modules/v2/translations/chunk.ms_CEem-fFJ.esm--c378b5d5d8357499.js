@@ -1,0 +1,2 @@
+var a={button:{signIn:"Daftar masuk dengan {shop}",continue:"Teruskan dengan {shop}",ariaLabel:{signIn:"Daftar masuk dengan Shop",continue:"Teruskan dengan Shop"}},subjectMappingError:"Sesuatu yang tidak kena berlaku. Sila cuba lagi.",changeAccountButton:{title:"Gunakan akaun berbeza"}},n={shopLogin:a};export{n as default,a as shopLogin};
+//# sourceMappingURL=chunk.ms_CEem-fFJ.esm.js.map

@@ -1,0 +1,2 @@
+var n={button:{signIn:"ลงชื่อเข้าใช้ด้วย {shop}",continue:"ดำเนินการต่อด้วย {shop}",ariaLabel:{signIn:"ลงชื่อเข้าใช้ด้วย Shop",continue:"ดำเนินการต่อด้วย Shop"}},subjectMappingError:"เกิดข้อผิดพลาดบางอย่าง โปรดลองอีกครั้ง",changeAccountButton:{title:"ใช้บัญชีอื่น"}},o={shopLogin:n};export{o as default,n as shopLogin};
+//# sourceMappingURL=chunk.th_BD3fEU-S.esm.js.map

@@ -1,0 +1,2 @@
+var n={button:{signIn:"Conectează-te prin {shop}",continue:"Continuă cu {shop}",ariaLabel:{signIn:"Conectează-te cu Shop",continue:"Continuă cu Shop"}},subjectMappingError:"A apărut o problemă. Încearcă din nou.",changeAccountButton:{title:"Folosește un alt cont"}},o={shopLogin:n};export{o as default,n as shopLogin};
+//# sourceMappingURL=chunk.ro-RO_DIzxMiCq.esm.js.map

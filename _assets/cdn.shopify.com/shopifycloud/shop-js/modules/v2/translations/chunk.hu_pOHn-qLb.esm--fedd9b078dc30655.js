@@ -1,0 +1,2 @@
+var a={button:{signIn:"Bejelentkezés a következővel: {shop}",continue:"Folytatás a következővel: {shop}",ariaLabel:{signIn:"Bejelentkezés a Shop használatával",continue:"Folytatás a Shop használatával"}},subjectMappingError:"Hiba történt. Kérjük, próbálja meg újra.",changeAccountButton:{title:"Másik fiók használata"}},t={shopLogin:a};export{t as default,a as shopLogin};
+//# sourceMappingURL=chunk.hu_pOHn-qLb.esm.js.map

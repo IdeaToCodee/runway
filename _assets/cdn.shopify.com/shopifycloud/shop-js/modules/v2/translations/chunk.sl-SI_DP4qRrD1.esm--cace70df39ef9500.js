@@ -1,0 +1,2 @@
+var a={button:{signIn:"Prijavite se s storitvijo {shop}",continue:"Nadaljujte s storitvijo {shop}",ariaLabel:{signIn:"Prijava z aplikacijo Shop",continue:"Nadaljevanje z aplikacijo Shop"}},subjectMappingError:"Prišlo je do težave. Poskusite znova.",changeAccountButton:{title:"Uporabi drug račun"}},o={shopLogin:a};export{o as default,a as shopLogin};
+//# sourceMappingURL=chunk.sl-SI_DP4qRrD1.esm.js.map

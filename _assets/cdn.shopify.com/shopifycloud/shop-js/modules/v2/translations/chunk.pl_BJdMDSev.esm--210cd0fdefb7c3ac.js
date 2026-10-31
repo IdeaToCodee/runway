@@ -1,0 +1,2 @@
+var n={button:{signIn:"Zaloguj się przez {shop}",continue:"Kontynuuj z {shop}",ariaLabel:{signIn:"Zaloguj się przez Shop",continue:"Kontynuuj z Shop"}},subjectMappingError:"Coś poszło nie tak. Spróbuj ponownie.",changeAccountButton:{title:"Użyj innego konta"}},o={shopLogin:n};export{o as default,n as shopLogin};
+//# sourceMappingURL=chunk.pl_BJdMDSev.esm.js.map

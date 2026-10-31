@@ -1,0 +1,2 @@
+var n={button:{signIn:"{shop} के साथ साइन इन करें",continue:"{shop} के साथ जारी रखें",ariaLabel:{signIn:"Shop के साथ साइन इन करें",continue:"Shop के साथ जारी रखें"}},subjectMappingError:"कुछ गड़बड़ी हो गई। कृपया फिर से कोशिश करें।",changeAccountButton:{title:"किसी दूसरे खाते का उपयोग करें"}},o={shopLogin:n};export{o as default,n as shopLogin};
+//# sourceMappingURL=chunk.hi_CVf6HFL1.esm.js.map

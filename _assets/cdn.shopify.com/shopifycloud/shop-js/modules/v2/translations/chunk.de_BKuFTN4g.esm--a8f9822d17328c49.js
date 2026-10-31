@@ -1,0 +1,2 @@
+var e={button:{signIn:"Mit {shop} anmelden",continue:"Mit {shop} fortfahren",ariaLabel:{signIn:"Mit Shop anmelden",continue:"Mit Shop fortfahren"}},subjectMappingError:"Etwas ist schiefgelaufen. Bitte versuche es noch einmal.",changeAccountButton:{title:"Anderes Konto verwenden"}},n={shopLogin:e};export{n as default,e as shopLogin};
+//# sourceMappingURL=chunk.de_BKuFTN4g.esm.js.map

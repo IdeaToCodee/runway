@@ -1,0 +1,2 @@
+var n={button:{signIn:"{shop} ile giriş yapın",continue:"{shop} ile devam edin",ariaLabel:{signIn:"Shop ile giriş yapın",continue:"Shop ile devam edin"}},subjectMappingError:"Bir sorun oluştu. Lütfen tekrar deneyin.",changeAccountButton:{title:"Farklı bir hesap kullanın"}},e={shopLogin:n};export{e as default,n as shopLogin};
+//# sourceMappingURL=chunk.tr_LKp5ZxRA.esm.js.map

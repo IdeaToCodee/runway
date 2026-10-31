@@ -1,0 +1,2 @@
+var n={button:{signIn:"تسجيل الدخول باستخدام {shop}",continue:"متابعة باستخدام {shop}",ariaLabel:{signIn:"تسجيل الدخول باستخدام Shop",continue:"متابعة باستخدام Shop"}},changeAccountButton:{title:"استخدام حساب آخر"},subjectMappingError:"حدث خطأ ما. يُرجى المحاولة مرة أخرى."},o={shopLogin:n};export{o as default,n as shopLogin};
+//# sourceMappingURL=chunk.ar_IGy2R3Lh.esm.js.map

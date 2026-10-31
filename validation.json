@@ -1,0 +1,24 @@
+{
+  "allPagesHTTP200": 14,
+  "offlinePages": [
+    {
+      "page": "runway",
+      "visibleImages": 15,
+      "loadedImages": 15
+    },
+    {
+      "page": "nike-orbit",
+      "visibleImages": 8,
+      "loadedImages": 8
+    },
+    {
+      "page": "scene-rail",
+      "visibleImages": 32,
+      "loadedImages": 32
+    }
+  ],
+  "lookNavigation": true,
+  "relatedPageNavigation": true,
+  "blockedExternalRequests": 52,
+  "unitAndIntegrationTests": 5
+}

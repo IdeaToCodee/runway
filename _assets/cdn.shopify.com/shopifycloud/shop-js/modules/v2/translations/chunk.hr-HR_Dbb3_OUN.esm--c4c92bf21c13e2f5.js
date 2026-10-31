@@ -1,0 +1,2 @@
+var o={button:{signIn:"Prijavite se rabeći {shop}",continue:"Nastavite na {shop}",ariaLabel:{signIn:"Prijava uz Shop",continue:"Nastavite uz Shop"}},subjectMappingError:"Došlo je do pogreške. Pokušajte ponovno.",changeAccountButton:{title:"Upotrijebite drugi račun"}},t={shopLogin:o};export{t as default,o as shopLogin};
+//# sourceMappingURL=chunk.hr-HR_Dbb3_OUN.esm.js.map

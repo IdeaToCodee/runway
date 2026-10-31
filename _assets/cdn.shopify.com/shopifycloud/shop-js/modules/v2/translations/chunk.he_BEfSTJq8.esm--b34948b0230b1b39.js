@@ -1,0 +1,2 @@
+var n={button:{signIn:"כניסה באמצעות {shop}",continue:"המשך באמצעות {shop}",ariaLabel:{signIn:"כניסה באמצעות Shop",continue:"המשך באמצעות Shop"}},changeAccountButton:{title:"השתמש בחשבון אחר"},subjectMappingError:"משהו השתבש. אנא נסה שוב."},o={shopLogin:n};export{o as default,n as shopLogin};
+//# sourceMappingURL=chunk.he_BEfSTJq8.esm.js.map

@@ -1,0 +1,2 @@
+var o={button:{signIn:"Prihlásiť sa cez {shop}",continue:"Pokračovať cez {shop}",ariaLabel:{signIn:"Prihlásenie cez Shop",continue:"Pokračovať cez Shop"}},subjectMappingError:"Vyskytla sa chyba. Skúste to znova.",changeAccountButton:{title:"Použiť iné konto"}},n={shopLogin:o};export{n as default,o as shopLogin};
+//# sourceMappingURL=chunk.sk-SK_BTp_bnHd.esm.js.map
